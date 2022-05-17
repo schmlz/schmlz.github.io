@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-16T14:30:32+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Johannes Schmalz</title><subtitle>A compilation of what I've been up to!</subtitle><author><name>Johannes Schmalz</name></author><entry><title type="html">CoGNeRe – Probabilistic Replanning with Guarantees</title><link href="http://localhost:4000/cognere/" rel="alternate" type="text/html" title="CoGNeRe – Probabilistic Replanning with Guarantees" /><published>2022-05-15T00:00:00+10:00</published><updated>2022-05-15T00:00:00+10:00</updated><id>http://localhost:4000/cognere</id><content type="html" xml:base="http://localhost:4000/cognere/"></content><author><name>Johannes Schmalz</name></author><summary type="html"></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-17T17:46:19+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Johannes Schmalz</title><subtitle>A compilation of what I've been up to!</subtitle><author><name>Johannes Schmalz</name></author><entry><title type="html">CoGNeRe – Probabilistic Replanning with Guarantees</title><link href="http://localhost:4000/cognere/" rel="alternate" type="text/html" title="CoGNeRe – Probabilistic Replanning with Guarantees" /><published>2022-05-17T00:00:00+10:00</published><updated>2022-05-17T00:00:00+10:00</updated><id>http://localhost:4000/cognere</id><content type="html" xml:base="http://localhost:4000/cognere/">&lt;hr /&gt;
+
+&lt;p&gt;CoGNeRe is solver for probabilistic shortest path problems. Akin to other replanners like Robust-FF,
+CoGNeRe constructs a solution to the probabilistic problem by solving deterministic relaxations,
+which lets it return partial policies quickly in an online fashion. The novelty is that by using
+column generation, it can provide guarantees of optimality.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Short Talk&lt;/strong&gt; [slides]&lt;/p&gt;
+
+&lt;font color=&quot;#9097a3&quot;&gt;
+
+12 minute talk that gives an overview of the algorithm. Presented at a retreat for HDR students in
+the ANU Intelligence Cluster.
+
+&lt;/font&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Honours Thesis&lt;/strong&gt; [pdf]&lt;/p&gt;
+
+&lt;font color=&quot;#9097a3&quot;&gt;
+
+100 page document that gives the background, and develops the main component of the algorithm. The
+experiments are a bit problematic, but the theory is good. Submitted for the research component of
+Honours at ANU.
+
+&lt;/font&gt;</content><author><name>Johannes Schmalz</name></author><summary type="html"></summary></entry></feed>
