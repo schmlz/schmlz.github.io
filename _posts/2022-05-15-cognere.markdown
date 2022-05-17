@@ -1,9 +1,0 @@
----
-title: CoGNeRe – Probabilistic Replanning with Guarantees
-layout: single
-header:
-  image: /assets/images/cognere/cognere_summary.svg
-  teaser: /assets/images/cognere/cognere_summary.svg
----
-
-
