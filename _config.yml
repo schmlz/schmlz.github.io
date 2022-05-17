@@ -105,13 +105,13 @@ analytics:
 author:
   name             : "Johannes Schmalz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm me!"
-  location         : "Somewhere"
+  bio              : "PhD student at ANU"
+  # location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "johannes.schmalz@anu.edu.au"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:johannes.schmalz@anu.edu.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
