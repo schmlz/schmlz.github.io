@@ -1,0 +1,38 @@
+---
+title: CoGNeRe – Probabilistic Replanning with Guarantees
+layout: single
+header:
+  image: /assets/images/cognere/cognere_summary.svg
+  teaser: /assets/images/cognere/cognere_summary.svg
+# classes: wide
+---
+
+----
+
+CoGNeRe is solver for probabilistic shortest path problems. Akin to other replanners like Robust-FF,
+CoGNeRe constructs a solution to the probabilistic problem by solving deterministic relaxations,
+which lets it return partial policies quickly in an online fashion. The novelty is that by using
+column generation, it can provide guarantees of optimality.
+
+----
+
+**Short Talk** [slides]
+
+<font color="#9097a3">
+
+12 minute talk that gives an overview of the algorithm. Presented at a retreat for HDR students in
+the ANU Intelligence Cluster.
+
+</font>
+
+----
+
+**Honours Thesis** [pdf]
+
+<font color="#9097a3">
+
+100 page document that gives the background, and develops the main component of the algorithm. The
+experiments are a bit problematic, but the theory is good. Submitted for the research component of
+Honours at ANU.
+
+</font>
