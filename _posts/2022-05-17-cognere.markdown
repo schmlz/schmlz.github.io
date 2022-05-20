@@ -16,23 +16,25 @@ column generation, it can provide guarantees of optimality.
 
 ----
 
+**ICAPS DC Abstract** [pdf]
+
+4 page overview of CoGNeRe, some background, and future work. Submitted as my dissertation abstract
+for the  [ICAPS 2022 Doctoral Consortium](https://icaps22.icaps-conference.org/dc-2022).
+{: style="color: #9097a3"}
+
+----
+
 **Short Talk** [slides]
 
-<font color="#9097a3">
-
-12 minute talk that gives an overview of the algorithm. Presented at a retreat for HDR students in
-the ANU Intelligence Cluster.
-
-</font>
+12 minute talk that gives an overview of the algorithm and what it's trying to do. Presented at a
+retreat for HDR students in the ANU Intelligence Cluster.
+{: style="color: #9097a3"}
 
 ----
 
 **Honours Thesis** [pdf]
 
-<font color="#9097a3">
-
 100 page document that gives the background, and develops the main component of the algorithm. The
 experiments are a bit problematic, but the theory is good. Submitted for the research component of
-Honours at ANU.
-
-</font>
+my Honours Degree at ANU.
+{: style="color: #9097a3"}
