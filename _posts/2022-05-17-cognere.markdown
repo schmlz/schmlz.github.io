@@ -12,11 +12,22 @@ header:
 CoGNeRe is solver for probabilistic shortest path problems. Akin to other replanners like Robust-FF,
 CoGNeRe constructs a solution to the probabilistic problem by solving deterministic relaxations,
 which lets it return partial policies quickly in an online fashion. The novelty is that by using
-column generation, it can provide guarantees of optimality.
+column generation, it can provide guarantees of optimality, and a lot of flexibility.
 
 ----
 
-**ICAPS DC Abstract** [pdf]
+**ICAPS DC Poster** [[pdf]({{ site.url }}/downloads/cognere/icaps_dc_poster.pdf)]
+
+* 2 minute talk [coming soon]
+* 6 minute talk [coming soon]
+
+Poster and accompanying talks for CoGNeRe at the [ICAPS 2022 Doctoral
+Consortium](https://icaps22.icaps-conference.org/dc-2022).
+{: style="color: #9097a3"}
+
+----
+
+**ICAPS DC Abstract** [coming soon]
 
 4 page overview of CoGNeRe, some background, and future work. Submitted as my dissertation abstract
 for the  [ICAPS 2022 Doctoral Consortium](https://icaps22.icaps-conference.org/dc-2022).
@@ -24,7 +35,7 @@ for the  [ICAPS 2022 Doctoral Consortium](https://icaps22.icaps-conference.org/d
 
 ----
 
-**Short Talk** [slides]
+**Short Talk** [[slides]({{ site.url }}/downloads/cognere/hdr_retreat_talk.pdf)]
 
 12 minute talk that gives an overview of the algorithm and what it's trying to do. Presented at a
 retreat for HDR students in the ANU Intelligence Cluster.
@@ -32,9 +43,10 @@ retreat for HDR students in the ANU Intelligence Cluster.
 
 ----
 
-**Honours Thesis** [pdf]
+**Honours Thesis** [[pdf]({{ site.url }}/downloads/cognere/honours_thesis.pdf)]
 
 100 page document that gives the background, and develops the main component of the algorithm. The
-experiments are a bit problematic, but the theory is good. Submitted for the research component of
-my Honours Degree at ANU.
+formulation is a bit outdated and the experiments are problematic (the version of Robust-FF that was
+used for testing was hand-rolled without a lot of the optimisations in the authors' version), but
+the theory is good. Submitted for the research component of my Honours Degree at ANU.
 {: style="color: #9097a3"}
