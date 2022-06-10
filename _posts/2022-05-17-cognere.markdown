@@ -5,6 +5,7 @@ header:
   image: /assets/images/cognere/cognere_summary.svg
   teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
+excerpt_separator: <!--more-->
 ---
 
 ----
@@ -14,12 +15,14 @@ CoGNeRe constructs a solution to the probabilistic problem by solving determinis
 which lets it return partial policies quickly in an online fashion. The novelty is that by using
 column generation, it can provide guarantees of optimality, and a lot of flexibility.
 
+<!--more-->
+
 ----
 
 **ICAPS DC Poster** [[pdf]({{ site.url }}/downloads/cognere/icaps_dc_poster.pdf)]
 
 * 2 minute talk [coming soon]
-* 6 minute talk [coming soon]
+* 6 minute talk [[link](https://youtu.be/cmX54uOjbWM)]
 
 Poster and accompanying talks for CoGNeRe at the [ICAPS 2022 Doctoral
 Consortium](https://icaps22.icaps-conference.org/dc-2022).
