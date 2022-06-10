@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "Johannes Schmalz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student at ANU"
-  # location         : "Somewhere"
+  avatar           : "/assets/images/face.png"
+  bio              : "I'm a PhD student at ANU, studying planning in AI."
+  location         : "Australia"
   email            :
   links:
     - label: "johannes.schmalz@anu.edu.au"
@@ -229,6 +229,11 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-last-modified-at # automatically detect the date a post was modified
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 # mimic GitHub Pages with --safe
 whitelist:
