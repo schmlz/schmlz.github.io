@@ -5,6 +5,7 @@ header:
   image: /assets/images/cognere/cognere_summary.svg
   teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
+last_modified_at: 2022-06-10
 excerpt_separator: <!--more-->
 ---
 

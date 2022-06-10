@@ -229,11 +229,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-last-modified-at # automatically detect the date a post was modified
+  # - jekyll-last-modified-at # automatically detect the date a post was modified
 
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%d-%b-%y'
+### jekyll-last-modified-at is nice, but incompatible with github pages :(
+# # Optional. The default date format, used if none is specified in the tag.
+# last-modified-at:
+#     date-format: '%d-%b-%y'
 
 # mimic GitHub Pages with --safe
 whitelist:
