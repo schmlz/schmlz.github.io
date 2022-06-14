@@ -5,7 +5,7 @@ header:
   image: /assets/images/cognere/cognere_summary.svg
   teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2022-06-10
+last_modified_at: 2022-06-14
 excerpt_separator: <!--more-->
 ---
 
@@ -31,7 +31,7 @@ Consortium](https://icaps22.icaps-conference.org/dc-2022).
 
 ----
 
-**ICAPS DC Abstract** [coming soon]
+**ICAPS DC Abstract** [[pdf]({{ site.url }}/downloads/cognere/icaps_dc_abstract.pdf)]
 
 4 page overview of CoGNeRe, some background, and future work. Submitted as my dissertation abstract
 for the  [ICAPS 2022 Doctoral Consortium](https://icaps22.icaps-conference.org/dc-2022).
