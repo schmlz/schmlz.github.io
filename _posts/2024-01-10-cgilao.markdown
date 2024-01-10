@@ -1,0 +1,32 @@
+---
+title: CG-iLAO* – Efficient Constraint Generation for Stochastic Shortest Path Problems
+layout: single
+header:
+  # image: /assets/images/cognere/cognere_summary.svg
+  # teaser: /assets/images/cognere/cognere_summary.svg
+# classes: wide
+last_modified_at: 2024-01-10
+excerpt_separator: <!--more-->
+---
+
+----
+
+CG-iLAO* is a modification of the iLAO* algorithm, which is capable of using heuristics to ignore
+unpromising actions until they are needed. In our experiments, CG-iLAO* outperforms iLAO* and LRTDP.
+We derive CG-iLAO* by viewing iLAO* under the lens of linear programming, and then generalising it
+at the linear programming level, and bring it back into a dynamic programming algorithm.
+
+<!--more-->
+
+----
+
+**AAAI24 Paper** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_paper.pdf)]
+
+----
+
+
+**Extended Paper and Source Code** [[zenodo]](https://doi.org/10.5281/zenodo.10344842)
+
+This zenodo entry is a placeholder for now.
+{: style="color: #9097a3"}
+
