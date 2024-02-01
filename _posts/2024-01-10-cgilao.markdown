@@ -27,7 +27,7 @@ This paper has been accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
 
 ----
 
-**Technical Report** [[arxiv]](https://arxiv.org/abs/2401.14636) [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_paper.pdf)]
+**Technical Report** [[arxiv]](https://arxiv.org/abs/2401.14636)
 
 Extended version of the paper with more experimental results in the appendix.
 {: style="color: #9097a3"}
