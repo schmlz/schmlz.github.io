@@ -20,13 +20,23 @@ at the linear programming level, and bring it back into a dynamic programming al
 
 ----
 
-**AAAI24 Paper** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_paper.pdf)]
+**AAAI 2024 Paper** [coming soon]
+
+This paper has been accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
+{: style="color: #9097a3"}
+
+----
+
+**Technical Report** [[arxiv]](https://arxiv.org/abs/2401.14636) [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_paper.pdf)]
+
+Extended version of the paper with more experimental results in the appendix.
+{: style="color: #9097a3"}
 
 ----
 
 
-**Extended Paper and Source Code** [[zenodo]](https://doi.org/10.5281/zenodo.10344842)
+**Source Code, Benchmarks, and Data** [[zenodo]](https://doi.org/10.5281/zenodo.10344842)
 
-This zenodo entry is a placeholder for now.
+This zenodo entry is a placeholder and will be populated soon. If you need access sooner, send me a message!
 {: style="color: #9097a3"}
 
