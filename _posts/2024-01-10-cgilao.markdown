@@ -20,7 +20,10 @@ at the linear programming level, and bring it back into a dynamic programming al
 
 ----
 
-**AAAI 2024 Paper** [coming soon]
+**AAAI 2024**
+
+* paper [coming soon]
+* poster [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
 
 This paper has been accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
 {: style="color: #9097a3"}
@@ -33,6 +36,14 @@ Extended version of the paper with more experimental results in the appendix.
 {: style="color: #9097a3"}
 
 ----
+
+**1h Talk** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_slides.pdf)]
+
+
+I gave this talk in Toulouse and at Uni Basel. It steps through iLAO* and CG-iLAO* on a toy problem, which might be helpful to gain some intuition.
+{: style="color: #9097a3"}
+
+---
 
 
 **Source Code, Benchmarks, and Data** [[zenodo]](https://doi.org/10.5281/zenodo.10344842)
