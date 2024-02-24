@@ -37,7 +37,7 @@ Extended version of the paper with more experimental results in the appendix.
 
 ----
 
-**1h Talk** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_slides.pdf)]
+**1h Talk** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_talk.pdf)]
 
 
 I gave this talk in Toulouse and at Uni Basel. It steps through iLAO* and CG-iLAO* on a toy problem, which might be helpful to gain some intuition.
