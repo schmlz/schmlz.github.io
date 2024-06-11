@@ -5,27 +5,24 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2024-01-10
+last_modified_at: 2024-06-11
 excerpt_separator: <!--more-->
 ---
 
 ----
 
-CG-iLAO* is a modification of the iLAO* algorithm, which is capable of using heuristics to ignore
-unpromising actions until they are needed. In our experiments, CG-iLAO* outperforms iLAO* and LRTDP.
-We derive CG-iLAO* by viewing iLAO* under the lens of linear programming, and then generalising it
-at the linear programming level, and bring it back into a dynamic programming algorithm.
+CG-iLAO* is a modification of the iLAO* algorithm, which is capable of using heuristics to ignore unpromising actions until they are needed.
+In our experiments, CG-iLAO* outperforms iLAO* and LRTDP (the state-of-the-art).
+To derive CG-iLAO* we view iLAO* under the lens of linear programming in a novel way, and generalise it with constraint generation.
+Then, we bring this algorithm back into the world of dynamic programming.
 
 <!--more-->
 
 ----
 
-**AAAI 2024**
+**AAAI 2024 Paper** [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/30005)
 
-* paper [coming soon]
-* poster [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
-
-This paper has been accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
+This paper was accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
 {: style="color: #9097a3"}
 
 ----
@@ -44,6 +41,13 @@ I gave this talk in Toulouse and at Uni Basel. It steps through iLAO* and CG-iLA
 {: style="color: #9097a3"}
 
 ---
+
+**AAAI 2024 Poster** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
+
+This is the poster that I presented at AAAI.
+{: style="color: #9097a3"}
+
+----
 
 
 **Source Code, Benchmarks, and Data** [[zenodo]](https://doi.org/10.5281/zenodo.10344842)
