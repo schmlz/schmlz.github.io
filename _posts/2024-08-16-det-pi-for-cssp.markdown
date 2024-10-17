@@ -17,9 +17,9 @@ We present a new algorithm for finding optimal deterministic policies for CSSPS 
 
 ----
 
-**ECAI 2024 Paper** [[pdf]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_camera_ready.pdf)] [[poster]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_poster.pdf)]
+**ECAI 2024 Paper** [[pdf]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_camera_ready.pdf)] [[link]](https://ebooks.iospress.nl/doi/10.3233/FAIA240986) [[poster]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_poster.pdf)]
 
-This paper was accepted at [ECAI 2024](https://www.ecai2024.eu/)! A link to the proceedings is coming very soon.
+This paper was accepted at [ECAI 2024](https://www.ecai2024.eu/)!
 {: style="color: #9097a3"}
 
 ----
