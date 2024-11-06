@@ -5,7 +5,7 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2024-10-18
+last_modified_at: 2024-11-07
 excerpt_separator: <!--more-->
 ---
 
@@ -20,6 +20,13 @@ We present a new algorithm for finding optimal deterministic policies for CSSPS 
 **ECAI 2024 Paper** [[pdf]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_camera_ready.pdf)] [[link]](https://ebooks.iospress.nl/doi/10.3233/FAIA240986) [[poster]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_poster.pdf)]
 
 This paper was accepted at [ECAI 2024](https://www.ecai2024.eu/)!
+{: style="color: #9097a3"}
+
+----
+
+**Talk** [[slides]({{ site.url }}/downloads/det-pi-for-cssp/det-pi-for-cssp_talk.pdf)]
+
+I gave this talk at ANU and Saarland Uni. The slides have some examples and pictures!
 {: style="color: #9097a3"}
 
 ----

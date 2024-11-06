@@ -20,7 +20,7 @@ Then, we bring this algorithm back into the world of dynamic programming.
 
 ----
 
-**AAAI 2024 Paper** [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/30005)
+**AAAI 2024 Paper** [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/30005) [[poster]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
 
 This paper was accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
 {: style="color: #9097a3"}
@@ -38,13 +38,6 @@ Extended version of the paper with more experimental results in the appendix.
 
 
 I gave this talk in Toulouse and at Uni Basel. It steps through iLAO* and CG-iLAO* on a toy problem, which might be helpful to gain some intuition.
-{: style="color: #9097a3"}
-
----
-
-**AAAI 2024 Poster** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
-
-This is the poster that I presented at AAAI.
 {: style="color: #9097a3"}
 
 ----
