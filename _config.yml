@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Johannes Schmalz"
   avatar           : "/assets/images/face.png"
-  bio              : "I'm a PhD student at ANU, studying planning in AI."
-  location         : "Australia"
+  bio              : "I'm a researcher of automated planning, now a post-doc at the Foundations of Artificial Intelligence group."
+  location         : "Saarbrücken"
   email            :
   links:
     - label: "johannes.schmalz@anu.edu.au"
