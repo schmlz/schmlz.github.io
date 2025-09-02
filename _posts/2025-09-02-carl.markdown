@@ -1,5 +1,5 @@
 ---
-title: Solving Constrained Stochastic Shortest Path Problems with Scalarisation
+title: CARL – Solving Constrained Stochastic Shortest Path Problems with Scalarisation
 layout: single
 header:
   # image: /assets/images/cognere/cognere_summary.svg
