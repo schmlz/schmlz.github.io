@@ -43,8 +43,7 @@ I gave this talk in Toulouse and at Uni Basel. It steps through iLAO* and CG-iLA
 ----
 
 
-**Source Code, Benchmarks, and Data** [[zenodo]](https://doi.org/10.5281/zenodo.10344842)
+**Source Code, Benchmarks, and Data** [[zenodo]](https://doi.org/10.5281/zenodo.10344842) [[github]](https://github.com/schmlz/cgilao)
 
-This zenodo entry is a placeholder and will be populated soon. If you need access sooner, send me a message!
+The code, benchmarks, and experimental results are all here. Note: the zenodo link points to the github repo.
 {: style="color: #9097a3"}
-
