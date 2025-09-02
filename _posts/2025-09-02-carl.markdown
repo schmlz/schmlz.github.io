@@ -1,0 +1,34 @@
+---
+title: Solving Constrained Stochastic Shortest Path Problems with Scalarisation
+layout: single
+header:
+  # image: /assets/images/cognere/cognere_summary.svg
+  # teaser: /assets/images/cognere/cognere_summary.svg
+# classes: wide
+last_modified_at: 2025-09-02
+excerpt_separator: <!--more-->
+---
+
+----
+
+Introducing CARL: a heuristic-search algorithm that solves Constrained Stochastic Shortest Path problems (CSSPs) optimally by solving a sequence of unconstrained Stochastic Shortest Path problems (SSPs). It fits within the framework of Lagrangian decomposition, which we frame in terms of scalarisation. What is surprising about this, is that CSSPs require stochastic policies and SSPs are solved with deterministic policies, so how can it be that we get an optimal, potentially stochastic policy from solving SSPs? The trick is that we find a particular SSP and find all its optimal deterministic policies, and these can be combined into an optimal stochastic policy for the CSSP!
+
+<!--more-->
+
+----
+
+**ECAI 2025 Paper** [[pdf]({{ site.url }}/downloads/carl/carl_extended_paper.pdf)] [[arxiv]](https://www.arxiv.org/abs/2508.17446)
+
+This paper was accepted at [ECAI 2025](https://ecai2025.org/)!
+{: style="color: #9097a3"}
+
+----
+
+**Talk** (coming soon)
+
+----
+
+**Code, benchmarks, and data** (coming soon)
+
+If you need access to any of these sooner, please do get in touch!
+{: style="color: #9097a3"}
