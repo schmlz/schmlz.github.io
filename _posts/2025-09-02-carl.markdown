@@ -17,14 +17,24 @@ Introducing CARL: a heuristic-search algorithm that solves Constrained Stochasti
 
 ----
 
-**ECAI 2025 Paper** [[pdf]({{ site.url }}/downloads/carl/carl_extended_paper.pdf)] [[arxiv]](https://www.arxiv.org/abs/2508.17446)
+**ECAI 2025 Paper** [[link]](https://ebooks.iospress.nl/doi/10.3233/FAIA251372)
 
 This paper was accepted at [ECAI 2025](https://ecai2025.org/)!
 {: style="color: #9097a3"}
 
 ----
 
-**Talk** (coming soon)
+**Extended Paper** [[pdf]({{ site.url }}/downloads/carl/carl_extended_paper.pdf)] [[arxiv]](https://www.arxiv.org/abs/2508.17446)
+
+Identical to the ECAI paper, but has some nice examples and pictures in the appendix.
+{: style="color: #9097a3"}
+
+----
+
+**Talk** [[pdf]({{ site.url }}/downloads/carl/carl_ecai_slides.pdf)]
+
+12 minute talk for ECAI.
+{: style="color: #9097a3"}
 
 ----
 
