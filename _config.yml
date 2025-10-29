@@ -109,9 +109,9 @@ author:
   location         : "Saarbrücken"
   email            :
   links:
-    - label: "johannes.schmalz@anu.edu.au"
+    - label: "schmalz@cs.uni-saarland.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:johannes.schmalz@anu.edu.au"
+      url: "mailto:schmalz@cs.uni-saarland.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
