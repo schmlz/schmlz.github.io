@@ -20,7 +20,7 @@ Then, we bring this algorithm back into the world of dynamic programming.
 
 ----
 
-**AAAI 2024 Paper** [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/30005) [[poster]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
+**AAAI 2024 Paper** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_paper.pdf)] [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/30005) [[poster]({{ site.url }}/downloads/cgilao/cgilao_aaai24_poster.pdf)]
 
 This paper was accepted at [AAAI 2024](https://aaai.org/aaai-conference/)!
 {: style="color: #9097a3"}
