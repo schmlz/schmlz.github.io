@@ -33,4 +33,4 @@ author_profile: true
 - **Finding Plans and Heuristics with Spectral Graph Theory**<br>
   _Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2025)_<br>
   Johannes Schmalz<br>
-  [[pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper.pdf)] [[more](/spectral-graph-theory/)]
+  [[pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v2.pdf)] [[more](/spectral-graph-theory/)]

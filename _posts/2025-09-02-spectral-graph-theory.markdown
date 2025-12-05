@@ -5,7 +5,7 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2025-09-02
+last_modified_at: 2025-12-06
 excerpt_separator: <!--more-->
 ---
 
@@ -17,9 +17,12 @@ Spectral graph theory considers the matrices associated with graphs and studies 
 
 ----
 
-**HSDIP 2025 Paper** [[pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper.pdf)]
+**HSDIP 2025 Paper**  [[v2 pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v2.pdf)] [[v1 pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v1.pdf)]
 
 This paper was accepted at the [HSDIP 2025](https://icaps25.icaps-conference.org/program/workshops/hsdip/) workshop!
+{: style="color: #9097a3"}
+
+**Corrigendum:** the heuristic error on path graphs (fig. 5) is wrong in v1 and has been fixed in v2. Due to numeric issues, we were not selecting the smallest eigenvector but a close-to-smallest one, which does not describe a descending heuristic. Thanks /P@trik Haslum for spotting it!
 {: style="color: #9097a3"}
 
 ----
@@ -31,7 +34,7 @@ I gave this talk at [AmsterCAPS 2025](https://galvusdamor.github.io/ourAMSTERcap
 
 ----
 
-**Code** (coming soon)
+**Code** [[github]](https://github.com/schmlz/spectral-plans-and-heuristics/tree/main)
 
-I have some python code for generating all the pictures from the paper and slides. For now, just send me a message if you want access!
+Some python code for generating all the pictures from the paper and slides.
 {: style="color: #9097a3"}
