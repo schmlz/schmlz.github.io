@@ -17,7 +17,7 @@ Spectral graph theory considers the matrices associated with graphs and studies 
 
 ----
 
-**HSDIP 2025 Paper**  [[v2 pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v2.pdf)] [[v1 pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v1.pdf)]
+**HSDIP 2025 Paper**  [[v2]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v2.pdf)] <span style="font-size: 0.65em;">[[v1]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v1.pdf)]</span>
 
 This paper was accepted at the [HSDIP 2025](https://icaps25.icaps-conference.org/program/workshops/hsdip/) workshop!
 {: style="color: #9097a3"}
