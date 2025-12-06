@@ -22,7 +22,7 @@ Spectral graph theory considers the matrices associated with graphs and studies 
 This paper was accepted at the [HSDIP 2025](https://icaps25.icaps-conference.org/program/workshops/hsdip/) workshop!
 {: style="color: #9097a3"}
 
-**Corrigendum:** the heuristic error on path graphs (fig. 5) is wrong in v1 and has been fixed in v2. Due to numeric issues, we were not selecting the smallest eigenvector but a close-to-smallest one, which does not describe a descending heuristic. The correct error curve is less complex (it's no longer sinusoidal), but it remains unclear how to predict. Thanks /P@trik Haslum for spotting it!
+**Corrigendum:** the heuristic error on path graphs (fig. 5) is wrong in v1 and has been fixed in v2. Due to numeric issues, we were not selecting the smallest eigenvector but a close-to-smallest one, which does not describe a descending heuristic. The correct error curve is less complex (it's no longer sinusoidal), but it remains unclear how to predict. Thanks /P@trik Haslum for spotting the bug!
 {: style="color: #9097a3"}
 
 ----
