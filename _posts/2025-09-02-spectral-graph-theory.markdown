@@ -27,9 +27,9 @@ This paper was accepted at the [HSDIP 2025](https://icaps25.icaps-conference.org
 
 ----
 
-**Talk** [[slides]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_amstercaps_talk.pdf)]
+**Talk** [[HSDIP slides]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_talk.pdf)] [[AmsterCAPS slides]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_amstercaps_talk.pdf)]
 
-I gave this talk at [AmsterCAPS 2025](https://galvusdamor.github.io/ourAMSTERcaps25/).
+I gave this talk at [AmsterCAPS 2025](https://galvusdamor.github.io/ourAMSTERcaps25/) and [HSDIP 2025](https://icaps25.icaps-conference.org/program/workshops/hsdip/). The HSDIP version is newer and has more details.
 {: style="color: #9097a3"}
 
 ----
