@@ -7,6 +7,11 @@ author_profile: true
 
 **Conference Papers**
 
+- **Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems**<br>
+  _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_<br>
+  Johannes Schmalz, Chaahat Jain<br>
+  [[more](/fond-fault-analysis/)]
+
 - **Probabilistic HTN Planning: Formalization and Computational Complexity Analysis**<br>
   _Proceedings of 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)_<br>
   Mohammad Yousefi, Johannes Schmalz, Patrik Haslum, Pascal Bercher<br>
@@ -26,6 +31,14 @@ author_profile: true
   _Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)_<br>
   Johannes Schmalz, Felipe Trevizan<br>
   [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aaai24_paper.pdf)]  [[more](/cgilao/)]
+
+
+**Journal Papers**
+
+- **Efficient Constraint Generation for Stochastic Shortest Path Problems** <br>
+  _Artificial Intelligence Journal (AIJ) 2026_<br>
+  Johannes Schmalz, Felipe Trevizan<br>
+  [[more](/cgilao/)]
 
 
 **Workshop Papers**
