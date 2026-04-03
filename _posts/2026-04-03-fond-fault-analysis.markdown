@@ -31,7 +31,7 @@ Extended version of the paper with more experimental results in the appendix.
 
 ----
 
-**Source Code, Benchmarks, and Data** [[zenodo]](https://doi.org/10.5281/zenodo.10344842) [[github]](https://github.com/schmlz/cgilao)
+**Source Code, Benchmarks, and Data** [[zenodo]](https://zenodo.org/records/18926835) [[github]](https://github.com/ChaahatJain/ICAPS26-Deciding-State-Safety-in-FOND)
 
-The code, benchmarks, and experimental results are all here. Note: the zenodo link points to the github repo.
+The code, benchmarks, and experimental results are all here.
 {: style="color: #9097a3"}
