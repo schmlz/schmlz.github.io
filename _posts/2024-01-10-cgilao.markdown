@@ -5,7 +5,7 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2024-06-11
+last_modified_at: 2026-04-03
 excerpt_separator: <!--more-->
 ---
 
@@ -17,6 +17,13 @@ To derive CG-iLAO* we view iLAO* under the lens of linear programming in a novel
 Then, we bring this algorithm back into the world of dynamic programming.
 
 <!--more-->
+
+----
+
+**AI Journal 2026 Paper** [[pdf]({{ site.url }}/downloads/cgilao/cgilao_aij26_paper.pdf)] [[arxiv]](https://arxiv.org/abs/2604.01855) [[AIJ]](https://doi.org/10.1016/j.artint.2026.104505)
+
+This is an extended paper that subsumes the previous ones, and fixes some minor issues.
+{: style="color: #9097a3"}
 
 ----
 
