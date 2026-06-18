@@ -1,0 +1,23 @@
+---
+title: Iterative Planning with MUGS Explanations: Exploring the Design Space
+layout: single
+header:
+  # image: /assets/images/cognere/cognere_summary.svg
+  # teaser: /assets/images/cognere/cognere_summary.svg
+# classes: wide
+last_modified_at: 2026-04-03
+excerpt_separator: <!--more-->
+---
+
+----
+
+Consider an oversubscription planning problem (i.e., there are more goals that can be achieved simultaneously) and only a human expert can decide which subsets of goals are more important than others. This can be addressed with an [iterative planning loop](https://doi.org/10.1609/aaai.v34i06.6534), where a user specifies a set of goals, a planner tries to satisfy them, and returns a set of Minimal Unsolvable Goal Subsets (MUGS). In this paper, we look at different ways to visualise these MUGS, and whether a planner is needed at all during execution.
+
+<!--more-->
+
+----
+
+**HAXP 2026 Short Paper**
+
+This short paper was accepted at [HAXP 2026](https://icaps26.icaps-conference.org/program/workshops/haxp/)!
+{: style="color: #9097a3"}

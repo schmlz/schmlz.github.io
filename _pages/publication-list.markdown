@@ -43,7 +43,18 @@ author_profile: true
 
 **Workshop Papers**
 
+- **Iterative Planning with MUGS Explanations: Exploring the Design Space**<br>
+  _Workshop of Human-Aware and Explainable Planning (HAXP 2026) at ICAPS 2026_<br>
+  <u>Johannes Schmalz</u>, David Groß, Rebecca Eifler, Julián Méndez, Raimund Dachselt, Stefan Gumhold, Jörg Hoffmann<br>
+  [[more](/haxp-mugs/)]
+
 - **Finding Plans and Heuristics with Spectral Graph Theory**<br>
-  _Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2025)_<br>
+  _Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2025) at ICAPS 2025_<br>
   <u>Johannes Schmalz</u><br>
   [[pdf]({{ site.url }}/downloads/spectral-graph-theory/spectral_graph_theory_hsdip_paper_v2.pdf)] [[more](/spectral-graph-theory/)]
+
+**PhD Thesis**
+
+- **Planning Under Uncertainty with Techniques from Operations Research**<br>
+  <u>Johannes Schmalz</u><br>
+  [[pdf]({{ site.url }}/downloads/phd-thesis/thesis.pdf)] [[more](/phd-thesis/)]
