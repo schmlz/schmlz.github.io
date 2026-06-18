@@ -1,5 +1,5 @@
 ---
-title: Iterative Planning with MUGS Explanations: Exploring the Design Space
+title: "Iterative Planning with MUGS Explanations: Exploring the Design Space"
 layout: single
 header:
   # image: /assets/images/cognere/cognere_summary.svg

@@ -1,5 +1,5 @@
 ---
-title: PhD Thesis: Planning Under Uncertainty with Techniques from Operations Research
+title: PhD Thesis – Planning Under Uncertainty with Techniques from Operations Research
 layout: single
 header:
   # image: /assets/images/cognere/cognere_summary.svg
