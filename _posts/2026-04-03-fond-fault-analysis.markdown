@@ -5,7 +5,7 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2026-04-03
+last_modified_at: 2026-06-25
 excerpt_separator: <!--more-->
 ---
 
@@ -17,16 +17,16 @@ Suppose you have a learned policy for a Fully Observable Non-deterministic (FOND
 
 ----
 
-**ICAPS 2026 Short Paper**
+**ICAPS 2026 Short Paper** [[link]](https://ojs.aaai.org/index.php/ICAPS/article/view/42858)
 
 This short paper was accepted at [ICAPS 2026](https://icaps26.icaps-conference.org/)!
 {: style="color: #9097a3"}
 
 ----
 
-**Technical Report** [[arxiv]](https://arxiv.org/abs/2603.15282)
+**Technical Report** [[pdf]({{ site.url }}/downloads/fond-fault-analysis/fond_fault_analysis_icaps2026_extended_paper.pdf)] [[arxiv]](https://arxiv.org/abs/2603.15282)
 
-Extended version of the paper with more experimental results in the appendix.
+Extended version of the paper that **subsumes the short conference version**. It has more details for the algorithms, proofs, and experimental results.
 {: style="color: #9097a3"}
 
 ----
