@@ -24,7 +24,7 @@ This short paper was accepted at [HAXP 2026](https://icaps26.icaps-conference.or
 
 ----
 
-**Talk** [[pdf]({{ site.url }}/downloads/mugs_haxp2026_slides.pdf)]
+**Talk** [[pdf]({{ site.url }}/downloads/haxp-mugs/mugs_haxp2026_slides.pdf)]
 
 17 minute talk for HAXP.
 {: style="color: #9097a3"}
