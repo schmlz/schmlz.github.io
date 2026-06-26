@@ -10,7 +10,7 @@ author_profile: true
 - **Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems**<br>
   _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_<br>
   <u>Johannes Schmalz</u>, Chaahat Jain<br>
-  [[more](/fond-fault-analysis/)]
+  [[pdf]({{ site.url }}/downloads/fond-fault-analysis/fond_fault_analysis_icaps2026_extended_paper.pdf)] [[more](/fond-fault-analysis/)]
 
 - **Probabilistic HTN Planning: Formalization and Computational Complexity Analysis**<br>
   _Proceedings of 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)_<br>
