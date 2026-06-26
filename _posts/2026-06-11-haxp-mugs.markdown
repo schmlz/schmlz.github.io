@@ -5,7 +5,7 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2026-06-18
+last_modified_at: 2026-06-26
 excerpt_separator: <!--more-->
 ---
 
@@ -20,4 +20,11 @@ Consider an oversubscription planning problem (i.e., there are more goals that c
 **HAXP 2026 Short Paper**
 
 This short paper was accepted at [HAXP 2026](https://icaps26.icaps-conference.org/program/workshops/haxp/)!
+{: style="color: #9097a3"}
+
+----
+
+**Talk** [[pdf]({{ site.url }}/downloads/mugs_haxp2026_slides.pdf)]
+
+17 minute talk for HAXP.
 {: style="color: #9097a3"}

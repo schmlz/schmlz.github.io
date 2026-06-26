@@ -5,7 +5,7 @@ header:
   # image: /assets/images/cognere/cognere_summary.svg
   # teaser: /assets/images/cognere/cognere_summary.svg
 # classes: wide
-last_modified_at: 2026-06-25
+last_modified_at: 2026-06-26
 excerpt_separator: <!--more-->
 ---
 
@@ -27,6 +27,13 @@ This short paper was accepted at [ICAPS 2026](https://icaps26.icaps-conference.o
 **Technical Report** [[pdf]({{ site.url }}/downloads/fond-fault-analysis/fond_fault_analysis_icaps2026_extended_paper.pdf)] [[arxiv]](https://arxiv.org/abs/2603.15282)
 
 Extended version of the paper that **subsumes the short conference version**. It has more details for the algorithms, proofs, and experimental results.
+{: style="color: #9097a3"}
+
+----
+
+**Talk** [[pdf]({{ site.url }}/downloads/fond-fault-analysis/fond_fault_analysis_icaps2026_slides.pdf)]
+
+8 minute talk for ICAPS.
 {: style="color: #9097a3"}
 
 ----
